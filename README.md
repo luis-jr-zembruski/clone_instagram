@@ -55,7 +55,7 @@ $ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/clone_instagram
 $ cd clone_instagram
 ```
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Luís Jr. R. Zembruski</a>
+Made with :heart: by <a href="https://github.com/luis-jr-zembruski" target="_blank">Luís Jr. R. Zembruski</a>
 
 &#xa0;
 
